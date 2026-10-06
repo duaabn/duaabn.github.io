@@ -1,2 +1,5 @@
-# duaabn.github.io
-Dua'a Bani Issa — AI Engineer &amp; Data Scientist portfolio
+# Dua'a Bani Issa
+
+Personal portfolio: https://duaabn.github.io/
+
+Built with React, Vite and Tailwind CSS. This repository contains the published static site.

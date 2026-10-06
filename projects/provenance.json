@@ -1,0 +1,51 @@
+[
+  {
+    "id": "olympics",
+    "file": "olympics.png",
+    "source": "https://github.com/duaabn/mentorai-olympic/blob/main/mentorai_olympic.ipynb#cell-52",
+    "caption": "Saved notebook output · historical athlete participation ratio",
+    "sha256": "794aae3a4bb55aac78aacb91ebb6c16c7f20ccf27ef5c9c43d9fd1ea20ec7784"
+  },
+  {
+    "id": "housing",
+    "file": "housing.png",
+    "source": "https://github.com/duaabn/Housing-California/blob/main/Housing_California.ipynb#cell-24",
+    "caption": "Saved notebook output · geographic distribution of housing values",
+    "sha256": "f19c1189682c94ef525e975613551cdb1d7fd413c04ba0f19c29927fef393524"
+  },
+  {
+    "id": "olist",
+    "file": "olist.png",
+    "source": "https://github.com/duaabn/olist-delivery-prediction/blob/main/notebooks%2F04_eda.ipynb#cell-26",
+    "caption": "Saved training-data EDA · late-delivery rates by state and month",
+    "sha256": "1562d9b6f2bad40fc7403e85dc6ed3925e83c415fa50e5dce84aecea51425335"
+  },
+  {
+    "id": "ciciomt",
+    "file": "ciciomt.png",
+    "source": "https://github.com/duaabn/CICIoMT2024/blob/main/data/evaluation/official_test_300_samples_confusion_matrix.png",
+    "caption": "300-row balanced demonstration replay · not the full official test",
+    "sha256": "7673db4901a2e80274cc3f1344d1e5711f82f445483842bb340654a066d67f14"
+  },
+  {
+    "id": "automobile",
+    "file": "automobile.png",
+    "source": "https://github.com/duaabn/automobile-sales-dashboard/blob/main/RecessionReportgraphs.png",
+    "caption": "Original dashboard screenshot · recession statistics",
+    "sha256": "a5aaff399af59224bf7ed1c6557399f78c2fd9eb73d4d8434eef6a5855772061"
+  },
+  {
+    "id": "wildfire",
+    "file": "wildfire.png",
+    "source": "https://github.com/duaabn/Wildfire-Australia/blob/main/dash.png",
+    "caption": "Original dashboard screenshot · regional and yearly filters",
+    "sha256": "2a00595091096d62c0d40dbae75192e0243cb1f067a623f69f8ee8487cd6372c"
+  },
+  {
+    "id": "pickly",
+    "file": "pickly.png",
+    "source": "https://github.com/duaabn/pickly-phone-advisor/blob/main/docs/project-preview.png",
+    "caption": "Original Pickly interface · phone advisor and trending devices",
+    "sha256": "9126235bf531066bc1a9d2c36fc9e40e7760f04175a0dbd756d59f84ac9b06ce"
+  }
+]
